@@ -82346,3 +82346,5 @@ oddsresult の変更をgitにpushしました。
 2026-08-29 の予測結果を保存しました（学習データとは別フォルダ: data/predictions/）
 予測結果を書き出しました: /Volumes/Vault/odds-tuner2/oddsresult/oddsforecast.txt
 oddsresult の変更をgitにpushしました。
+/opt/miniconda3/bin/python: can't open file '/Volumes/Vault/odds-tuner2/main2.py': [Errno 2] No such file or directory
+/opt/miniconda3/bin/python: can't open file '/Volumes/Vault/odds-tuner2/main2.py': [Errno 2] No such file or directory
